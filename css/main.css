@@ -1,2 +1,2 @@
-html,body{background-color:red}
+html,body{background-color:red}html,body{margin:0}nav{width:100%;background-color:white;position:fixed}nav ul{display:flex;justify-content:space-between;align-items:center;list-style-type:none;padding-right:40px}nav li{text-decoration:none}
 /*# sourceMappingURL=main.css.map */
